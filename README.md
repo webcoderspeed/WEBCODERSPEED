@@ -53,6 +53,9 @@ Join Us - [Learn JavaScript]
 
 ![WebCoderSpeed GitHub stats](https://github-readme-stats.vercel.app/api?username=webcoderspeed&show_icons=true&theme=shades-of-purple)
 
+<img src="https://gpvc.arturio.dev/webcoderspeed" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/webcoderspeed?style=social"/> 
+
+
 [FaceBook]:https://www.facebook.com/speed.sharma.37
 
 [Instagram]:https://www.instagram.com/webcoderspeed
