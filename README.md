@@ -37,7 +37,6 @@
 <img align='left'  alt='Java'  width='22px'  src  ='./icons8-java.svg'>
 <img align='left'  alt='Python'  width='22px'  src  ='./icons8-python.svg'>
 <img align='left' alt='MongoDB' width='22px' src='http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png'>
-<img align='left' alt='MongoDB' width='22px' src='http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png'>
 
 <br>
 
