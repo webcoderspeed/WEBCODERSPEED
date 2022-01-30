@@ -1,67 +1,75 @@
+<section align='center'>
+<img src='./SANJEEV SHARMA.png' alt='Sanjeev Sharma' />
 
-###  Hi there, I'm Speed Sharma - aka [WebCoderSpeed] 👨‍💻❤️
+<h2 align="center">Hi, there 👋</h2>
 
+<p align="center">I'm Sanjeev Sharma.<br/> Software Engineer, YouTuber and Gamer</p>
+</p>
 
+<p align="center">
+  <a href="https://twitter.com/webcoderspeed/">
+    <img src="https://img.shields.io/twitter/follow/webcoderspeed?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/c/CODEWITHSPEED?sub_confirmation=1">
+    <img src="http://img.shields.io/badge/YouTube-1K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjeev-sharma-4b6340220/">
+    <img src="https://img.shields.io/badge/LinkedIn-98-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+</p>
 
-##  I'm a Student, Developer and Instructor!
+### Tech Stack
 
-- 🔭 I'm currenlty working on my Portfolio
-- 🌱 I’m currently learning Bootstrap
-- 👯 I'm looking to collaborate with other content creators
-- 🤔 I’m looking for help with creative ideas
-- 🎯 2021 Goals: Contribute more to Open Source projects and Build our own E-Learning Platform
-- ⚡ Fun fact: I love to draw and play PUBG MOBILE
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=eed718"> 
+<img src="https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Python3-black?style=for-the-badge&logo=python&logoColor=3776AB"> 
+<img src="https://img.shields.io/badge/-Mocha%20and%20Chai-brown?style=for-the-badge&logo=mocha&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Git%20and%20Github-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28"> 
+<img src="https://img.shields.io/badge/-React-161616?style=for-the-badge&logo=react&logoColor=00d9ff"> 
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green">
+<img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=green">
+<img src="https://img.shields.io/badge/-JWT-white?style=for-the-badge&logo=JSON Web Tokens&logoColor=purple">
+<img src="https://img.shields.io/badge/-Passport.js-black?style=for-the-badge&logo=Passport&logoColor=green">
+<img src="https://img.shields.io/badge/-Express.js-white?style=for-the-badge&logo=express&logoColor=black">
+<img src="https://img.shields.io/badge/-MY%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind%20css-001440?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<br />
 
-###  🤝🏻 Connect with me:
+### Currenlty Learning
 
-[<img align='left' alt='webcoderspeed' width='22px' src='https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png'>][FaceBook]
+<img src="https://img.shields.io/badge/-Typescript-4479A1?style=for-the-badge&logo=typescript&logoColor=white">
+<br />
 
-[<img align='left' alt='webcoderspeed' width='22px' src='https://i.pinimg.com/originals/ce/10/4e/ce104e6527a9a9ea6a725b558a56ef9b.png'>][Instagram]
+### Future Learning Goals
 
-[<img align='left' alt='webcoderspeed' width='22px' src='https://cdnlogo.com/logos/t/96/twitter-icon.svg'>][Twitter]
+<img src="https://img.shields.io/badge/-Bootstrap-764ABC?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=764ABC">
+<img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django&logoColor=green">
+<img src="https://img.shields.io/badge/-blockchain-white?style=for-the-badge&logo=Blockchain.com&logoColor=764ABC">
 
-[<img align='left' alt='webcoderspeed' width='22px' src='./youtube.gif'>][YouTube]
+### Github info
 
-  <br>
-  
-###  Tech Stack:
+<b>⚡Stats</b>
 
-<img align='left'  alt='visualstudiocode'  width='22px'  src  ='./icons8-visual-studio.svg'>
-<img align='left'  alt='HTML5'  width='22px'  src  ='./icons8-html-5.svg'>
-<img align='left'  alt='CSS3'  width='22px'  src  ='./icons8-css3.svg'>
-<img align='left'  alt='JavaScript'  width='22px'  src='./icons8-javascript.svg'>
-<img align='left'  alt='Sass'  width='22px'  src  ='./icons8-sass-avatar.svg'>
-<img align='left'  alt='React JS'  width='22px'  src  ='./icons8-react.svg'>
-<img align='left'  alt='Node JS'  width='22px'  src  ='./icons8-nodejs.svg'>
-<img align='left'  alt='MySQL'  width='22px'  src  ='./icons8-mysql-logo.svg'>
-<img align='left'  alt='Java'  width='22px'  src  ='./icons8-java.svg'>
-<img align='left'  alt='Python'  width='22px'  src  ='./icons8-python.svg'>
-<img align='left' alt='MongoDB' width='22px' src='http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png'>
+<img src='https://github-readme-stats.vercel.app/api?username=webcoderspeed&theme=vue-dark&hide_border=true' alt='sanjeev sharma stats'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcoderspeed&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=vue-dark" alt="webcoderspeed" />
+</br>
 
-<br>
+**🔥 Github Streaks**
 
-###  Tutorial:
+<img src="http://github-readme-streak-stats.herokuapp.com?user=webcoderspeed&theme=vue-dark&hide_border=true" alt="webcoderspeed" />
+</br>
 
-Join Me - [Learn Web Development] <br>
+**🏆 Github Achievements**
 
-Join Us - [Learn JavaScript]
-
-<br>
-
-![WebCoderSpeed GitHub stats](https://github-readme-stats.vercel.app/api?username=webcoderspeed&show_icons=true&theme=shades-of-purple)
-
-<img src="https://gpvc.arturio.dev/webcoderspeed" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/webcoderspeed?style=social"/> 
-
-
-[FaceBook]:https://www.facebook.com/speed.sharma.37
-
-[Instagram]:https://www.instagram.com/webcoderspeed
-
-[Twitter]:https://twitter.com/webcoderspeed/
-
-[YouTube]:https://www.youtube.com/channel/UCBdThR0hFPmNCru8gzUqzrQ
-
-[ Learn Web Development]:https://www.youtube.com/watch?v=ZnOl2ZpW5Nc&list=PLc-nmwgF0f-9w-QMH_FE3lzyzD9vi3tyg
-
-[Learn JavaScript]:https://www.youtube.com/watch?v=JT1qkkhIqBY&list=PLc-nmwgF0f-_G31K6skfZaEnmur5yQpb
-
+<img src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
+ <hr>
+ <p>
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
+</section>
