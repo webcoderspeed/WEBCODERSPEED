@@ -66,7 +66,7 @@
 
 **🏆 Github Achievements**
 
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
+<img src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
  <hr>
  <p>
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
