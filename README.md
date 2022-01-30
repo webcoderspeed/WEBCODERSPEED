@@ -55,18 +55,18 @@
 
 <b>⚡Stats</b>
 
-<img src='https://github-readme-stats.vercel.app/api?username=webcoderspeed&theme=vue-dark&hide_border=true' alt='sanjeev sharma stats'>
+<img height="180em" src='https://github-readme-stats.vercel.app/api?username=webcoderspeed&theme=vue-dark&hide_border=true' alt='sanjeev sharma stats'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcoderspeed&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=vue-dark" alt="webcoderspeed" />
 </br>
 
 **🔥 Github Streaks**
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=webcoderspeed&theme=vue-dark&hide_border=true" alt="webcoderspeed" />
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=webcoderspeed&theme=vue-dark&hide_border=true" alt="webcoderspeed" />
 </br>
 
 **🏆 Github Achievements**
 
-<img src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
  <hr>
  <p>
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
