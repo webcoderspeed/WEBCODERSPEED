@@ -37,17 +37,19 @@
 <img src="https://img.shields.io/badge/-Express.js-white?style=for-the-badge&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/-MY%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind%20css-001440?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
+<img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
+<img src="https://img.shields.io/badge/-Typescript-4479A1?style=for-the-badge&logo=typescript&logoColor=white">
+<img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00' />
 <br />
 
 ### Currenlty Learning
 
-<img src="https://img.shields.io/badge/-Typescript-4479A1?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=764ABC">
 <br />
 
 ### Future Learning Goals
 
-<img src="https://img.shields.io/badge/-Bootstrap-764ABC?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=764ABC">
 <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django&logoColor=green">
 <img src="https://img.shields.io/badge/-blockchain-white?style=for-the-badge&logo=Blockchain.com&logoColor=764ABC">
 
