@@ -14,7 +14,7 @@
     <img src="http://img.shields.io/badge/YouTube-1K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/sanjeev-sharma-4b6340220/">
-    <img src="https://img.shields.io/badge/LinkedIn-98-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-574-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </p>
 
