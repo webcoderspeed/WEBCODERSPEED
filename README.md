@@ -57,21 +57,23 @@
 
 <b>⚡Stats</b>
 
-<img height="180em" src='https://github-readme-stats.vercel.app/api?username=webcoderspeed&theme=vue-dark&hide_border=true' alt='sanjeev sharma stats'>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcoderspeed&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=vue-dark" alt="webcoderspeed" />
+<img height="180em" src='https://github-readme-stats.vercel.app/api?username=webcoderspeed&theme=radical&hide_border=true' alt='sanjeev sharma stats'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcoderspeed&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=radical" alt="webcoderspeed" />
 </br>
 
 **🔥 Github Streaks**
 
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=webcoderspeed&theme=vue-dark&hide_border=true" alt="webcoderspeed" />
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=webcoderspeed&theme=radical&hide_border=true" alt="webcoderspeed" />
 </br>
 
 **🏆 Github Achievements**
 
-<img src="https://github-profile-trophy.vercel.app/?username=webcoderspeed&margin-w=5" alt="webcoderspeed" />
- <hr>
- <p>
-    <i>Take a look at my repositories and let's get in touch!</i><br><br>
-   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
-</p>
-</section>
+![Webcoderspeed' Activity Graph](https://activity-graph.herokuapp.com/graph?username=webcoderspeed&custom_title=Webcoderspeed%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+## Random Dev Quote
+
+<div align="center">
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
